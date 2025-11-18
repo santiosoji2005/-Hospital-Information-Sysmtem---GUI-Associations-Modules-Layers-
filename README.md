@@ -6,8 +6,7 @@ tags: ["Python", "PyQt5", "Hospital", "MVC", "Desktop App"]
 
 # 🏥 Hospital Information System
 
-```yaml
-overview: >
+overview:
   This project is a desktop application built in Python following a 
   Three-Layer (MVC) architecture. It allows managing hospitals and doctors 
   in a modular and organized way.
