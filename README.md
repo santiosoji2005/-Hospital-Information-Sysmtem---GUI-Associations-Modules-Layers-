@@ -53,7 +53,7 @@ technologies:
 
 ---
 
-#🎯 Functionalities
+# 🎯 Functionalities
 
 functionalities:
   - Create and store hospitals with their doctors 🏨
@@ -64,7 +64,7 @@ functionalities:
 
 ---
 
-#🏛️ System Architecture
+# 🏛️ System Architecture
 
 architecture:
   Model:
@@ -110,8 +110,7 @@ notes:
 
 # 💡 Author
 
-author:
-  name: "Santiago Osorio Jiménez"
+author: "Santiago Osorio Jiménez"
 
 message: "Thanks for using the Hospital Information System! 🏥💙"
 
