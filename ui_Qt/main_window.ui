@@ -2,32 +2,52 @@
 <ui version="4.0">
  <class>MainWindow</class>
  <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>364</width>
+    <height>273</height>
+   </rect>
+  </property>
   <property name="windowTitle">
    <string>Sistema Hospitalario</string>
   </property>
-
   <widget class="QWidget" name="centralwidget">
    <widget class="QPushButton" name="btn_doctor">
     <property name="geometry">
-     <rect><x>40</x><y>40</y><width>160</width><height>40</height></rect>
+     <rect>
+      <x>40</x>
+      <y>40</y>
+      <width>160</width>
+      <height>40</height>
+     </rect>
     </property>
     <property name="text">
      <string>Registrar Doctor</string>
     </property>
    </widget>
-
    <widget class="QPushButton" name="btn_hospital">
     <property name="geometry">
-     <rect><x>40</x><y>100</y><width>160</width><height>40</height></rect>
+     <rect>
+      <x>40</x>
+      <y>100</y>
+      <width>160</width>
+      <height>40</height>
+     </rect>
     </property>
     <property name="text">
      <string>Registrar Hospital</string>
     </property>
    </widget>
-
    <widget class="QPushButton" name="btn_search">
     <property name="geometry">
-     <rect><x>40</x><y>160</y><width>160</width><height>40</height></rect>
+     <rect>
+      <x>40</x>
+      <y>160</y>
+      <width>160</width>
+      <height>40</height>
+     </rect>
     </property>
     <property name="text">
      <string>Buscar Doctor por DNI</string>
